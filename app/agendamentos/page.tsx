@@ -11,7 +11,6 @@ import {
   IoNotificationsOutline,
 } from "react-icons/io5";
 
-import "./agendamentos.css";
 
 type Status = "Pendente" | "Confirmado" | "Cancelado";
 

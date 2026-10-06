@@ -57,13 +57,6 @@ export default function Layout({
                 </Link>
 
                 <Link
-                  href="/calendario"
-                  style={styles.link}
-                >
-                  Calendário
-                </Link>
-
-                <Link
                   href="/clientes"
                   style={styles.link}
                 >
